@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yovez
+- 👀 I’m interested in Computer Programming. Specifically Minecraft plugins with Spigot, Websites with React and Spring, and C# with Unity.
+- 🌱 I’m currently learning how to build websites and web apps using React, Vue, Angular, and Spring to become a Front-End Developer.
+- 💞️ I’m looking to collaborate on any open-source Minecraft plugins using Spigot.
+- 📫 How to reach me: Discord (Yovez#6874)
